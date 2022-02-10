@@ -7,7 +7,7 @@ Connection::Connection(QWidget *parent) :
     ui->setupUi(this);
 }
 
-Connection::~OpenDialog() {
+Connection::~Connection() {
     delete ui;
 }
 

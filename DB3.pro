@@ -20,8 +20,6 @@ HEADERS += \
 FORMS += \
     connection.ui \
     mainwindow.ui \
-    opendialog.ui \
-    opendialog.ui
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin

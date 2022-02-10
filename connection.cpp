@@ -1,6 +1,6 @@
 #include "connection.h"
 
-connection::connection()
+Connection::Connection(QWidget *parent)
 {
 
 }
